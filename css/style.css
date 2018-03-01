@@ -1,0 +1,18 @@
+.section1 {
+	margin: 5% 5% 5% 5%;
+	box-sizing: content-box;
+	box-shadow: 2px 2px 3px 2px #888888;
+	height: 600px;
+}
+.section1 h5 {
+	margin-top: 2%;
+	text-align: center;
+	box-shadow: 2px 2px 3px 2px #888888;
+	background: #d1e0ff;
+	color: #008000;
+	border-radius: 10px;
+}
+.maincontent {
+	margin-top: 2%;
+	text-align: center;
+}
